@@ -1,0 +1,18 @@
+{
+  "user": [
+    {
+      "name": "suraj",
+      "address": "london",
+      "email": "suraj@gmail.com",
+      "contact": "3698521470",
+      "id": 1
+    },
+    {
+      "name": "surya",
+      "address": "uk",
+      "email": "surya@gmail.com",
+      "contact": "3698521470",
+      "id": 2
+    }
+  ]
+}
